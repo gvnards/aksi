@@ -1,7 +1,7 @@
 <template>
   <div>
     <Menu />
-    <div style="display: inline-block;">Dashboard</div>
+    <router-view />
   </div>
 </template>
 
